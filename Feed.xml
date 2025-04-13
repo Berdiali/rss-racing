@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Rrc</title>
+    <link>http://racingSantanderA.com</link>
+    <description>Últimas Noticias RRC</description>
+
+    <item>
+      <title>Fichaje Racing</title>
+      <link>http://racingSantanderA/Fichaje</link>
+      <description>Todo lo nuevo de Messi</description>
+      <pubDate>Wed, 13 Apr 2025 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
